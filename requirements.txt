@@ -1,2 +1,2 @@
 matplotlib
-sickit-learn
+scikit-learn
